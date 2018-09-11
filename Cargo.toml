@@ -1,0 +1,6 @@
+[package]
+name = "raknet-test"
+version = "0.1.0"
+authors = ["Jadon Fowler <jadonflower@gmail.com>"]
+
+[dependencies]
